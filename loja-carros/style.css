@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+}
+h1 {
+  text-align: center;
+}
+div {
+  background-color: #111;
+  border-radius: 4px;
+}
+h2 {
+  color: white;
+}
+span {
+  color: #febe01;
+}
+p {
+  color: #b2b2b2;
+}
