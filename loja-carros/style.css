@@ -1,28 +1,16 @@
 body {
   font-family: Arial;
 }
-#logo {
-  border-radius: 50%;
-  display: block;
-  max-width: 100%;
-  margin: auto;
-  width: 150px;
+#preco{
+  font-weight:bold;
 }
-#preco {
-  font-weight: bold;
-}
-.carros {
-  width: 400px;
-  display: block;
-  margin-top: 10px;
-  border-radius: 5%;
-}
+
 h1 {
   text-align: center;
 }
 div {
   background-color: #111;
-  border-radius: 15px;
+  border-radius: 4px;
   margin: 10px;
   padding-top: 5px;
   padding-left: 15px;
@@ -37,10 +25,10 @@ span {
 p {
   color: #b2b2b2;
 }
-button {
+button{
   border-radius: 4px;
   font-size: 14px;
-  font-weight: 700;
+  font-weight:700;
   padding: 8px 12px;
   background-color: #febe01;
 }
